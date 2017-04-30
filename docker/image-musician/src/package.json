@@ -1,0 +1,10 @@
+{
+  "name": "music-instrument",
+  "version": "1.0.0",
+  "description": "a music instrument program ",
+  "main": "musician.js",
+  "author": "Miguel Pombo Dias",
+  "dependencies": {
+    "uuid":"latest"
+  }
+}

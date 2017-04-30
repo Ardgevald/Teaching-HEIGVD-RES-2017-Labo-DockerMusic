@@ -1,0 +1,10 @@
+{
+  "name": "music-auditor",
+  "version": "1.0.0",
+  "description": "a music auditor program ",
+  "main": "auditor.js",
+  "author": "Miguel Pombo Dias",
+    "dependencies": {
+      "net":"latest"
+  }
+}
